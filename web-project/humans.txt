@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+rebecca @rbilsky
 # THANKS
 
     <name>
