@@ -5,7 +5,7 @@
 
 rebecca @rbilsky
 # THANKS
-
+thanks to all my students
     <name>
 
 # TECHNOLOGY COLOPHON
